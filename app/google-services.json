@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972015057460",
+    "project_id": "moviles-invierno-2021-basic",
+    "storage_bucket": "moviles-invierno-2021-basic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972015057460:android:2aea726581593bdcd2e861",
+        "android_client_info": {
+          "package_name": "com.example.firebasebasics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972015057460-dj2vt558i77gk1m38bpctrvmr50s2cge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYDB7dULNGO8_ulxoZkYq5zF9_s_l4Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972015057460-dj2vt558i77gk1m38bpctrvmr50s2cge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
